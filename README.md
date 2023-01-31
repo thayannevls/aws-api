@@ -301,8 +301,6 @@ Example:
 As an additional step, you can remove `cognitect.com/http-client` and Jetty 9 from your dependencies if you are not using this client.
 
 
-``````
-
 ## Contributing
 
 aws-api is open source, developed internally at Nubank.
